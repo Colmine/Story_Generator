@@ -2,7 +2,7 @@
 
 To get the code working you will need an environment that matches the following package versions:
 
-Specifically, you'll need tensorflow 1.13.1, cython 0.29.23, regex 2017.04.05, tensorflow-gpu 1.14.0 if you want to use your gpu, python V3.6.8, numpy 1.18.5, fire 0.4.0, the cudatoolkit 10.0.130, tqdm 4.31.1, toposort 1.5, and cudnn 7.6.4.
+Specifically, you'll need tensorflow 1.13.1, cython 0.29.23, regex 2017.04.05, tensorflow-gpu 1.14.0 if you want to use your gpu, python V3.6.8, numpy 1.18.5, fire 0.4.0, the cudatoolkit 10.0.130, tqdm 4.31.1, toposort 1.5, requests 2.21.0, and cudnn 7.6.4.
 
 
 _tflow_select             2.1.0                       gpu
