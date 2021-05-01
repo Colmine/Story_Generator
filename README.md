@@ -1,5 +1,7 @@
 # CS436_Final
 
+You will need to download the models used, i.e. 124M and 355M, using GPT-2's download_model.py file, can be found on the GPT-2 base repository.
+
 Create your dataset with <|endoftext|> markers to delimit sections that you want the program to generate from. After you have your data structured you'll want to then encode the data with the following command: `python encode.py <textfile.txt> <textfile.npz>`
 
 After that you can begin training GPT-2 on your dataset with: `python train.py --dataset <textfile.npz>`
